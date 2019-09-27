@@ -1,3 +1,7 @@
+git show
+git tag 
+git remote
+git config
 git log --follow
 git mv
 git rm
