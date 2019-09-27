@@ -1,0 +1,5 @@
+git log
+git log --follow
+git show
+git reset
+git fetch
