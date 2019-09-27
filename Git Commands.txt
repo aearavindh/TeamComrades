@@ -1,3 +1,6 @@
+git commit
+git reset
+git push
 git show
 git tag 
 git remote
