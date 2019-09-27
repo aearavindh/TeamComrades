@@ -1,5 +1,18 @@
-git rm
 git show
 git tag 
 git remote
 git config
+git log --follow
+git mv
+git rm
+git stash drop
+git push origin master
+git pull origin master
+git diff
+git checkout master
+git --merged
+git init
+git status
+git add
+git branch
+git log
