@@ -1,0 +1,5 @@
+git rm
+git show
+git tag 
+git remote
+git config
