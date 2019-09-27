@@ -1,0 +1,5 @@
+git commit
+git reset
+git init
+git push
+git stash
