@@ -1,5 +1,23 @@
-git log
-git log --follow
-git show
 git reset
 git fetch
+git checkout
+git remote add origin
+git stash pop
+git stash list
+git show
+git tag 
+git remote
+git config
+git log --follow
+git mv
+git rm
+git stash drop
+git push origin master
+git pull origin master
+git diff
+git --merged
+git init
+git status
+git add
+git branch
+git log
